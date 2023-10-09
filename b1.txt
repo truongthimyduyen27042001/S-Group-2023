@@ -1,2 +1,3 @@
 duyen change 09/10/2023
 duyen change lan 2 09/10/2023
+duyen example for git commit -a 'message 3'
