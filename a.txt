@@ -1,1 +1,1 @@
-Commit S in duyen1
+This first commit after rebase master to duyen2 
